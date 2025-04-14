@@ -1,6 +1,6 @@
 # TicTacToe
 
-A GUI tic-tac-toe game written in Java using AWT/Swing. This was a very early college project that I wrote after my [Sudoku](https://www.github.com/jtpeller/java-sudoku) game. I realized that I greatly disliked writing GUIs in Java since it was very finicky and one minor change could demolish your GUI you labored over so long. Plus, unless you wanted to write extremely custom and overly complicated GUI elements, it wouldn't really look that good either.
+A GUI tic-tac-toe game written in Java using AWT/Swing. This was a very early college project that I wrote after my [Sudoku](https://github.com/jtpeller/SudokuJava) game. I realized that I greatly disliked writing GUIs in Java since it was very finicky and one minor change could demolish your GUI you labored over so long. Plus, unless you wanted to write extremely custom and overly complicated GUI elements, it wouldn't really look that good either.
 
 ## Table of Contents
 
